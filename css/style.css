@@ -270,6 +270,7 @@ nav.navbar.navbar-default {
     color: #fff;
 }
 .navbar-brand {
+    color: #fff;
     padding: 0;
     font-size: 31px;
     text-transform: uppercase;
@@ -467,28 +468,29 @@ li.menu__item:nth-child(6) {
 /*-- //banner-text --*/
 /*-- banner-top --*/
 .w3layouts-banner-top{
-    background: url(../images/1.jpg) no-repeat 0px 0px;
-    background-size: cover;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-moz-background-size: cover;
+    background: url(../images/b1.jpg) no-repeat 0px 0px;
+    /*background-size: cover;*/
+    background-size: 100% 100%;
+	-webkit-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	-o-background-size: 100% 100%;
+	-moz-background-size:100% 100%;
 }
 .w3layouts-banner-top1{
-	background: url(../images/2.jpg) no-repeat 0px 0px;
-    background-size: cover;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-moz-background-size: cover;
+	background: url(../images/b2.jpg) no-repeat 0px 0px;
+    background-size: 100% 100%; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -moz-background-size:100% 100%;
 }
 .w3layouts-banner-top2{
- no-repeat 0px 0px;
-    background-size: cover;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-moz-background-size: cover;
+    background: url(../images/b3.jpg) no-repeat 0px 0px;
+    background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -moz-background-size:100% 100%;
 }
 .w3layouts-banner-top,.w3layouts-banner-top1,.w3layouts-banner-top2{
 	min-height:700px;
@@ -496,7 +498,7 @@ li.menu__item:nth-child(6) {
 .w3ls-banner {
     position: relative;
 }
-/*-- //banner-top --*/
+/*-- //banner-top --
 /*--slider--*/
 #slider2,
 #slider3 {
@@ -1901,14 +1903,14 @@ color: #fff !important;
 		font-size: 1.5em;
 	}
 }
-@media(max-width:1050px){
+/*@media(max-width:1050px){*/
 
-}
-@media(max-width:1024px){
+
+/*@media(max-width:1024px){
 	.navbar-brand {
 		font-size: 23px;
 		letter-spacing: 4px;
-	}
+	}*/
 	p.logo_w3l_agile_caption {
 		letter-spacing: 3.2px;
 	}
