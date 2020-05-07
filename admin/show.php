@@ -194,7 +194,7 @@ tr:hover .cut { opacity: 1; }
 		<header>
 			<h1>Information of Guest</h1>
 			<address >
-				<p>DIVINE HOTEL,</p>
+				<p>WATERWAVE HOTEL,</p>
 				<p>MARIN DRIVE LINK ROAD,<br>MUMBAI-400004,<br>INDIA.</p>
 				<p>(+91) 022 222 44 55</p>
 			</address>
@@ -268,7 +268,7 @@ tr:hover .cut { opacity: 1; }
 		<aside>
 			<h1><span >Contact us</span></h1>
 			<div >
-				<p align="center">Email :- info@divinehotels.com || Web :- www.divinehotels.com || Phone :- +91 022 222 44 55 </p>
+				<p align="center">Email :- info@WATERWAVEhotels.com || Web :- www.WATERWAVEhotels.com || Phone :- +91 022 222 44 55 </p>
 			</div>
 		</aside>
 	</body>

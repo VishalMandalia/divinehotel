@@ -10,7 +10,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>DIVINE HOTEL ADMIN</title>
+  <title>WATERWAVE HOTEL ADMIN</title>
 
 
 
@@ -51,7 +51,7 @@
       </div> <!-- end login -->
 
     </div>
-    <div class="../css/banner-top">  <h1><a href="../index.php">DIVINE HOTELS HOMEPAGE</a></h1></div>
+    <div class="../css/banner-top">  <h1><a href="../index.php">WATERWAVE HOTELS HOMEPAGE</a></h1></div>
 
 
 </body>
